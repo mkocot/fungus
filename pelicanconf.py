@@ -10,8 +10,10 @@ PATH = 'content'
 STATIC_PATHS = ["bua", "cake"]
 
 TIMEZONE = 'Europe/Warsaw'
+TYPOGRIFY = True
+THEME = "themes/notmyidea"
 
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = u'pl'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -44,5 +46,8 @@ PLUGIN_PATHS = ['../pelican-plugins']
 
 
 I18N_SUBSITES = {
-        'pl': {}
+        'pl': {},
+        'en': {
+		"THEME": THEME
         }
+}
