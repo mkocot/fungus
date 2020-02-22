@@ -11,7 +11,7 @@ STATIC_PATHS = ["bua", "cake"]
 
 TIMEZONE = 'Europe/Warsaw'
 TYPOGRIFY = True
-THEME = "themes/notmyidea"
+THEME = "themes/pl/notmyidea"
 
 DEFAULT_LANG = u'pl'
 
@@ -46,8 +46,10 @@ PLUGIN_PATHS = ['../pelican-plugins']
 
 
 I18N_SUBSITES = {
-        'pl': {},
+        'pl': {
+                "THEME": "themes/pl/notmyidea"
+        },
         'en': {
-		"THEME": THEME
+                "THEME": "themes/en/notmyidea"
         }
 }
