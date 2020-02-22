@@ -2,7 +2,7 @@ Ciasto z cukinią
 ##################################
 
 :author: m
-:category: Random
+:category: Przepisy
 :date: 2020-02-22 02:22:10
 :lang: pl
 :tags: placek, cukinia
