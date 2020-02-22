@@ -4,7 +4,9 @@ Raisin without raisin... is a lie?
 :author: m
 :category: Random
 :date: 2020-02-13 20:03:10
-
+:lang: en
+:tags: cake
+:slug: raisin-without-raisin-is-a-lie
 
 .. image:: {attach}cake_c.png
   :width: 40%
