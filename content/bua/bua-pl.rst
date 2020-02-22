@@ -2,7 +2,7 @@ Dobra bua
 ##################
 
 :author: m
-:category: Random
+:category: Przepisy
 :date: 2020-02-10 20:02:10
 :lang: pl
 :summary: Prosty chleb na zakwasie

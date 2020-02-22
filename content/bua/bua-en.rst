@@ -2,7 +2,7 @@ Who is good dough?
 ##################
 
 :author: m
-:category: Random
+:category: Recipes
 :date: 2020-02-10 20:02:10
 :lang: en
 :summary: Easy sourdough bread

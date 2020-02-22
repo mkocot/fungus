@@ -2,7 +2,7 @@ Keks bez rodzynek... to oszustwo
 ##################################
 
 :author: m
-:category: Random
+:category: Przepisy
 :date: 2020-02-13 20:03:10
 :lang: pl
 :tags: placek
