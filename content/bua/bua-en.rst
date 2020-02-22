@@ -5,7 +5,9 @@ Who is good dough?
 :category: Random
 :date: 2020-02-10 20:02:10
 :lang: en
-
+:summary: Easy sourdough bread
+:slug: who-is-good-dough
+:tags: sourdough, bread
 
 .. image:: {attach}dough_c.png
   :width: 90%
