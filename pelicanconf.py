@@ -46,10 +46,8 @@ PLUGIN_PATHS = ['../pelican-plugins']
 
 
 I18N_SUBSITES = {
-        'pl': {
-                "THEME": "themes/pl/notmyidea"
-        },
         'en': {
-                "THEME": "themes/en/notmyidea"
+                "THEME": "themes/en/notmyidea",
+                "STATIC_PATHS": STATIC_PATHS,
         }
 }
