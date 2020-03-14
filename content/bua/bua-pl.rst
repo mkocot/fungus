@@ -58,7 +58,7 @@ Krok wymagany do uzyskanie "aktywnego" zakwasu
   :width: 40%
   :align: center
 
-:PORADA: 2 łyżki mąki kokosowej zapewnią dłuższą świerzość
+:PORADA: 2 łyżki mąki kokosowej zapewnią dłuższą świeżość
 
 #. Dodaj pozostałe mąki (4 kubki);
 #. Dodaj soli (co najmniej 1 łyżeczka do herbaty)
