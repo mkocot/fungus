@@ -20,9 +20,9 @@ Or how to make raisin cake without raisins
 Recipe (not a lie)
 =========================
 
-* 2 dl rice flour
-* 2 dl potato starch
-* 3 dl oat flour
+* 2 spoons (2 x 1/2 dl) rice flour
+* 2 spoons (2 x 1/2 dl) potato starch
+* 3 spoons (3 x 1/2 dl) oat flour
 * 4 eggs
 * Sundries
 * .. container::

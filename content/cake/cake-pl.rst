@@ -20,9 +20,9 @@ Jak zrobić keks bez rodzynek
 Przepis
 =========================
 
-* 2 dl mąki ryżowej
-* 2 dl skrobi ziemniaczanej
-* 3 dl mąki owsianej
+* 2 łyżki (2 x 1/2 dl) mąki ryżowej
+* 2 łyżki (2 x 1/2 dl) skrobi ziemniaczanej
+* 3 łyżki (3 x 1/2 dl) mąki owsianej
 * 4 jajka
 * Coś na ząb
 * .. container::
