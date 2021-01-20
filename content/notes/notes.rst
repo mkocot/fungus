@@ -21,5 +21,7 @@ Add to /etc/nginx.conf:
 http {
 ...
 proxy_cache_path /dev/null use_temp_path=off keys_zone=null:1m;
+# Or other tmpfs path
+proxy_temp_path /run/nginx.temp;
 ...
 }
