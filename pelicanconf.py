@@ -42,7 +42,7 @@ JINJA_ENVIRONMENT = {
         }
 
 PLUGINS = ['i18n_subsites']
-PLUGIN_PATHS = ['../pelican-plugins']
+PLUGIN_PATHS = ['pelican-plugins']
 
 
 I18N_SUBSITES = {
