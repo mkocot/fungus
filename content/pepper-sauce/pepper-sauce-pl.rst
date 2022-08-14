@@ -21,9 +21,9 @@ Składniki
 Przygotowanie
 =============
 
-#. Obierz oraz pokrój jabłka, paprykę i czosnek/
-#. Wlej olej i podsmaż czosnek w dużym garnku/
-#. Wczuć jabłka i paprykę i gotuj na małym ogniu/
-#. Rozgnieć paprykę i jakbłka łyżką i redukuj do postaci gęstego sosu/
+#. Obierz oraz pokrój jabłka, paprykę i czosnek.
+#. Wlej olej i podsmaż czosnek w dużym garnku.
+#. Wczuć jabłka i paprykę i gotuj na małym ogniu.
+#. Rozgnieć paprykę i jakbłka łyżką i redukuj do postaci gęstego sosu.
 #. Wlej ocet i zblenduj.
 #. Przelej do słoików i pasteryzuj.
