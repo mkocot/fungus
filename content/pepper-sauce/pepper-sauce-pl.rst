@@ -14,7 +14,7 @@ Składniki
 * 1500 g Czerwona papryka (bez nasion)
 * 50 (minium) g Papryka Jalapeño (z nasionami)
 * 400 g Jabbłka (bez nasion)
-* główka Czosnek
+* 1 główka Czosnek
 * 100 ml Ocet
 * 100 ml Olej
 
